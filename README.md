@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bablu Mia</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="center"> <a href="https://twitter.com/@bablu_m_17" target="blank"><img src="https://img.shields.io/twitter/follow/@bablu_m_17?logo=twitter&style=for-the-badge" alt="@bablu_m_17" /></a> </p>
+
 
 - 🌱 I’m currently learning **Node.js and Express**
 
