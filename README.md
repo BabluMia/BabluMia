@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Node.js and Express**
+- 🌱 I’m currently learning **Python, Django and Shopify**
 
 - 💬 Ask me about **react**
 
