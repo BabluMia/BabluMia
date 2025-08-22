@@ -1,29 +1,64 @@
-<h1 align="center">Hi 👋, I'm Bablu Mia</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+# 👋 Hi, I'm Bablu Mia
 
+🚀 **Software Developer** passionate about crafting intuitive, engaging, and user-friendly web applications.  
+I love transforming complex ideas into simple, elegant designs with **clean and efficient code**.
 
+---
 
-- 🌱 I’m currently learning **Python, Django and Shopify**
+## 🧑‍💻 About Me
+- 🌍 Based in **Sylhet, Bangladesh**
+- 📚 **Bachelor of Social Science** (2018 - 2024)  
+- 💼 Currently working at **Devsstream Limited** (Feb 2022 - Present)  
+- 🎯 Focused on building **scalable HRM systems, chat applications, and inventory solutions**
 
-- 💬 Ask me about **react**
+---
 
-- 📫 How to reach me **bablumiah2000@gmail.com**
-
-- ⚡ Fun fact **I always want to learn**
-
-<h3 align="center">Connect with me:</h3>
+## ⚡ Technologies I Work With
 <p align="center">
-<a href="https://twitter.com/@bablu_m_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bablu_m_17" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/bablu-mia-71a158210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bablu-mia-71a158210/" height="30" width="40" /></a>
-  <a href="https://fb.com/sumonahmed.bablu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumonahmed.bablu" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bablumia&show_icons=true&locale=en&layout=compact" alt="bablumia" /></p>
+## 💼 Work Experience
+### **Software Developer — Devsstream Limited**  
+📅 Feb 2022 - Present  
+- Developed and maintained multiple web applications with strong focus on **UX and performance**.  
+- Built **real-time chat applications** with media sharing, group chat features, and user role management.  
+- Worked on **HRM system** to streamline HR operations and services.  
+- Led a small **frontend team** ensuring seamless experience across modules.  
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bablumia&show_icons=true&locale=en" alt="bablumia" /></p>
+---
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bablumia&" alt="bablumia" /></p>
+## 🚀 Featured Projects
+### 🔹 SnowTex (Web Chat Application)
+- Real-time messaging with **media sharing & group chat administration**.  
+- Enhanced **user roles** and multimedia features for better interaction.
 
+### 🔹 Kaaruj Bangladesh (Inventory System)
+- Full-featured **inventory system** with product management, role-based access, invoicing, reporting & e-commerce integration.  
+- Built **multi-outlet support** for better business scalability.
+
+---
+
+## 📬 Contact Me
+- 📧 Email: **info.bablu1707@gmail.com**  
+- 📱 Phone: **+8801794706131**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/bablu-mia-71a158210/)  
+- 💻 [Portfolio](https://www.bablumia.site/)  
+ 
+
+---
+
+✨ *“I thrive on transforming ideas into meaningful digital experiences.”*  
