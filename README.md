@@ -8,10 +8,7 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Bablu%20Mia&fontAlignY=40&desc=Software%20Developer%20%7C%20Frontend%20Engineer&descAlignY=60&animation=twinkling&color=gradient"
     width="100%"
   /> -->
-  <img 
-    src="[https://capsule-render.vercel.app/api?type=waving&height=250&text=Bablu%20Mia&fontAlignY=40&desc=Software%20Developer%20%7C%20Frontend%20Engineer&descAlignY=60&animation=twinkling&color=gradient](https://drive.google.com/file/d/1-ZIZTj-m8DOYrPNrDjPOx_Dh3vikcdMp/view?usp=sharing)"
-    width="100%"
-  />
+  <img src="https://drive.google.com/uc?export=view&id=1-ZIZTj-m8DOYrPNrDjPOx_Dh3vikcdMp" width="100%" alt="cover"/>
   
 </p>
 
