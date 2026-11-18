@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Bablu Mia**, a **Frontend Software Developer** with **2.5+ years** of experience designing and shipping production web applications end to end — from Django APIs and data models to responsive React and Vue frontends.
+Hi, I'm **Bablu Mia**, a **Frontend Software Developer** with **3.5+ years** of experience designing and shipping production web applications end to end — from Django APIs and data models to responsive React and Vue frontends.
 
 - ⚡ Revenue-generating SaaS, e-commerce & fintech platforms serving 100+ daily users
 - 🔐 Role-based access control, invoicing & reporting modules
